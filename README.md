@@ -1,5 +1,6 @@
 # GatePassIDGenerator
 GatePass Id Generator In PDF file With QR and User Photo
+Enter Data record In Web It Will Auto generate PDF GatePass For You - "SoftCopy"
 
 ### TECH STACK ###
   HTML 
